@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------
+Numero de usuario :41
+DNI DEL CLIENTE: 12345566
+Fecha y hora: 28/05/2023 15:43:14
+Productos vendidos:
+CODIGO    Nombre                             Cantidad  Precio    Ganancia  
+-------------------------------------------------------------------------
+3         . Cerveza_Pilsen                     1         $5.00      $3.50      
+2         . Cajas_de_huevos                    1         $12.00     $7.00      
+
+Total de venta: $17.00
+Ganancia total: $10.50
+|| Ventas TOTAL DEL EMPLEADO ||
+|| TOTAL De venta :  17.00   ||
+|| Ganancia TOTAL : 10.50 ||
+
+-------------------------------------------------------------------------
+Numero de usuario :340
+DNI DEL CLIENTE: 12345678
+Fecha y hora: 28/05/2023 15:43:30
+Productos vendidos:
+CODIGO    Nombre                             Cantidad  Precio    Ganancia  
+-------------------------------------------------------------------------
+18        . Leche_Laive                        1         $3.00      $1.50      
+2         . Cajas_de_huevos                    2         $12.00     $14.00     
+
+Total de venta: $27.00
+Ganancia total: $15.50
+|| Ventas TOTAL DEL EMPLEADO ||
+|| TOTAL De venta :  44.00   ||
+|| Ganancia TOTAL : 26.00 ||
+

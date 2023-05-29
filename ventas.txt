@@ -1,0 +1,68 @@
+-------------------------------------------------------------------------
+Numero de usuario :41
+DNI DEL CLIENTE: 12345566
+Fecha y hora: 28/05/2023 15:43:14
+Productos vendidos:
+CODIGO    Nombre                             Cantidad  Precio    Ganancia  
+-------------------------------------------------------------------------
+3         . Cerveza_Pilsen                     1         $5.00      $3.50      
+2         . Cajas_de_huevos                    1         $12.00     $7.00      
+
+Total de venta: $17.00
+Ganancia total: $10.50
+|| Ventas TOTALES DEL DIA ||
+Total de ventas del 28/05/2023: $17
+Total de ganancia del 28/05/2023: $10.5
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+Numero de usuario :340
+DNI DEL CLIENTE: 12345678
+Fecha y hora: 28/05/2023 15:43:30
+Productos vendidos:
+CODIGO    Nombre                             Cantidad  Precio    Ganancia  
+-------------------------------------------------------------------------
+18        . Leche_Laive                        1         $3.00      $1.50      
+2         . Cajas_de_huevos                    2         $12.00     $14.00     
+
+Total de venta: $27.00
+Ganancia total: $15.50
+|| Ventas TOTALES DEL DIA ||
+Total de ventas del 28/05/2023: $44
+Total de ganancia del 28/05/2023: $26
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+Numero de usuario :188
+DNI DEL CLIENTE: 12345678
+Fecha y hora: 28/05/2023 15:44:06
+Productos vendidos:
+CODIGO    Nombre                             Cantidad  Precio    Ganancia  
+-------------------------------------------------------------------------
+19        . Leche_Pura_Vida                    2         $2.50      $2.00      
+21        . Arroz_Paisana                      1         $3.50      $2.00      
+
+Total de venta: $8.50
+Ganancia total: $4.00
+|| Ventas TOTALES DEL DIA ||
+Total de ventas del 28/05/2023: $52.5
+Total de ganancia del 28/05/2023: $30
+-------------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+Numero de usuario :489
+DNI DEL CLIENTE: 12345566
+Fecha y hora: 28/05/2023 15:44:17
+Productos vendidos:
+CODIGO    Nombre                             Cantidad  Precio    Ganancia  
+-------------------------------------------------------------------------
+16        . Atun_Florida                       1         $5.00      $4.00      
+14        . Atun_Real                          3         $4.00      $9.00      
+
+Total de venta: $17.00
+Ganancia total: $13.00
+|| Ventas TOTALES DEL DIA ||
+Total de ventas del 28/05/2023: $69.5
+Total de ganancia del 28/05/2023: $43
+-------------------------------------------------------------------------
+
